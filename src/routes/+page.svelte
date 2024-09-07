@@ -72,6 +72,6 @@
 	<footer>
 		<span>Made with &hearts; by David</span>
 		<span>&middot;</span>
-		<span><a href="#">Star or fork</a> this repo</span>
+		<span><a href="https://github.com/davidjczhao/reagan-schedule/">Star or fork</a> this repo</span>
 	</footer>
 </div>
